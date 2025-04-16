@@ -14,9 +14,8 @@ This project analyzes road accident trends in India for the years 2021 and 2022.
 road-accident-analysis/
 │
 ├── project_code.ipynb       # Jupyter Notebook with full analysis
-├── road_accidents_india.csv  # Dataset used for analysis
+├── RS_Session_266_AU_2647_1.csv  # Dataset used for analysis
 ├── project_report.pdf        # Final project report
-├── visuals/                  # (Optional) Folder for generated plots
 └── README.md                 # This file
 ```
 
