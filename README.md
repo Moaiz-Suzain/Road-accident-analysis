@@ -42,7 +42,7 @@ jupyter notebook project_code.ipynb
 - **Ministry of Road Transport & Highways (morth.nic.in)**
 
 ## 👨‍💻 Contributors
-- **Your Name** – BCA AIML SEM IV @ Ajeenkya DY Patil University
+- **Moaiz Suzain** – BCA AIML SEM IV @ Ajeenkya DY Patil University
 
 ## 📝 License
 This project is for academic purposes only. Data sources belong to respective authorities.
