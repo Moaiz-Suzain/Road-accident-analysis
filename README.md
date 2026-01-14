@@ -117,7 +117,7 @@ This project is considered complete in its current exploratory form. While furth
 
 ---
 
-## 🌟 Acknowledgments
+## Acknowledgments
 - **Prof. Vivek More** – Guide & Mentor
 - **Ajeenkya DY Patil University, Pune**
 
